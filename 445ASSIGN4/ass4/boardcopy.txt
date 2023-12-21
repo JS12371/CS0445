@@ -1,0 +1,5 @@
+4 4
+A Q A Z
+Z Z Z Z
+Z Z Z Z
+Z Z Z Z
